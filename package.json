@@ -11,7 +11,7 @@
     "coveralls": "^2.11.2",
     "istanbul": "^0.3.13",
     "jasmine-node": "^1.14.5",
-    "rewire": "^2.3.1"
+    "rewire": "^5.0.0"
   },
   "dependencies": {
     "cli-table": "^0.3.1",
