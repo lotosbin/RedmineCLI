@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
-    "istanbul": "^0.3.13",
+    "istanbul": "^0.4.5",
     "jasmine-node": "^1.14.5",
     "rewire": "^2.3.1"
   },
